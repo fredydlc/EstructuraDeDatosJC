@@ -3,3 +3,5 @@
 
 
 Console.WriteLine("Hola Mundo");
+
+Console.WriteLine("este es el curso de estructura");
